@@ -11,7 +11,7 @@ It does not send attack payloads. It is a triage layer on top of Burp / nuclei.
 ## Install
 
 ```bash
-git clone <repo> && cd huntly
+git clone https://github.com/KurniawanSatria/huntly.git && cd huntly
 npm install && npm link
 ```
 
